@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{6883AE93-D3DB-4CFE-B7CF-9F9C4428BE6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3.Tests", "ConsoleApp3.Tests\ConsoleApp3.Tests.csproj", "{44906B59-0C34-45E3-95EA-8768AF9C99FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6883AE93-D3DB-4CFE-B7CF-9F9C4428BE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6883AE93-D3DB-4CFE-B7CF-9F9C4428BE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6883AE93-D3DB-4CFE-B7CF-9F9C4428BE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6883AE93-D3DB-4CFE-B7CF-9F9C4428BE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44906B59-0C34-45E3-95EA-8768AF9C99FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44906B59-0C34-45E3-95EA-8768AF9C99FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44906B59-0C34-45E3-95EA-8768AF9C99FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44906B59-0C34-45E3-95EA-8768AF9C99FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
