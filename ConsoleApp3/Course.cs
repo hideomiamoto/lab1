@@ -10,7 +10,7 @@ public abstract class Course
     private List<Student> _students;
     private List<Teacher> _teachers;
     
-    protected Course(string title, string description, int durationInHours, string typeOfEducation)
+    public Course(string title, string description, int durationInHours, string typeOfEducation)
     {
         Title = title;
         Description = description;
