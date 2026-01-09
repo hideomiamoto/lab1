@@ -5,7 +5,7 @@ public abstract class Human
     public string Name { get; } //Неизменно после создания
     public string Surname { get; }
     public string SecondName { get; }
-    public int Age { get; protected set; }
+    public int Age { get; }
     
     public string FullName => $"{Surname} {Name} {SecondName}";
     
